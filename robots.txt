@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ma-cavity.github.io/sitemap.xml
+Sitemap: https://macavity.guru/sitemap.xml
